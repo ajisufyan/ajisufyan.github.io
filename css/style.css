@@ -1,0 +1,36 @@
+.jumbotron{
+  background-image: url('../img/cover.jpg');
+  background-attachment: fixed;
+  background-position: 0 -150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+section{
+  min-height: 420px;  
+}
+
+hr{
+  border-top:2px solid black ;
+  width: 250px;
+}
+
+footer svg{
+  color: maroon;
+}
+
+footer a{
+  color: white;
+}
+
+.topbar a{
+  text-decoration: none;
+  color: cornflowerblue;
+  font-size: 13px;
+  padding: 10px;
+}
+
+.topbar{
+   padding: 8px;
+}
